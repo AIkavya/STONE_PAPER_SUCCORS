@@ -9,7 +9,7 @@ Play against the computer, track your wins and losses, and enjoy the interactive
 
 ### 🚀 **Live Demo**
 
-👉 [Click here to play](#)
+👉 [Click here to play](https://aikavya.github.io/STONE_PAPER_SUCCORS/#)
 
 ---
 
@@ -48,19 +48,6 @@ Play against the computer, track your wins and losses, and enjoy the interactive
 2. Click on one of the three icons — 🪨 Stone, 📄 Paper, or ✂️ Scissors.
 3. The computer will randomly select its move.
 4. Alerts will show the result of the round and your score.
-
----
-
-
-
-
-
-```
-📁 assets/
- ├── stone.png
- ├── paper.png
- └── scissors.png
-```
 
 ---
 
